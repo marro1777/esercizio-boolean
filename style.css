@@ -1,0 +1,107 @@
+body {
+  background-image: url(background.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.main-square {
+  border: 3px solid black;
+  margin: auto;
+  padding: 10px;
+  width: 700px;
+  height: 600px;
+  background-color: rgb( 51, 46, 45);
+  opacity: 0.6;
+}
+
+.logo {
+  width: 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.first-title {
+  text-align: center;
+  color: green;
+}
+
+.green-bar {
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+  height: 30px;
+  background-color: green;
+}
+
+.button1 {
+  position: absolute;
+  top: 5px;
+  left: 130px;
+}
+
+.button2 {
+  position: absolute;
+  top: 5px;
+  left: 200px;
+}
+
+.button3 {
+  position: absolute;
+  top: 5px;
+  left: 350px;
+}
+
+.monogino {
+ margin-top: 10px;
+ margin-left: 50px;
+}
+
+.monomike {
+  margin-top: 10px;
+  margin-left: 50px;
+}
+
+.monofede {
+  margin-top: 10px;
+  margin-left: 50px
+}
+
+.writing {
+  color: white;
+}
+
+.charge-bar1 {
+  border-radius: 5px;
+  width: 200px;
+  height: 20px;
+  background-color: orange;
+}
+
+.charge-bar2 {
+  border-radius: 5px;
+  width: 300px;
+  height: 20px;
+  background-color: lightgreen;
+}
+
+.charge-bar3 {
+  border-radius: 5px;
+  width: 100px;
+  height: 20px;
+  background-color: red;
+}
+
+.check-box {
+  color: white
+}
+
+p {
+  color: white;
+  display: inline-block;
+  margin: 5px
+}
